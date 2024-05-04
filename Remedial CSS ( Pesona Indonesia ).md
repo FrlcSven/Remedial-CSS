@@ -515,6 +515,6 @@ body {
 
 # Hasil
 
-![[Remed Pesona indo/P.jpg]]
-![[S.jpg]]
-![[I.jpg]]
+![P.jpg](P.jpg)
+![S.jpg](S.jpg)
+![I.jpg](I.jpg)
